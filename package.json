@@ -1,0 +1,27 @@
+{
+  "name": "NextJs",
+  "version": "1.0.0",
+  "description": "first step with nextJs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValeryC/NextJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ValeryC/NextJs/issues"
+  },
+  "homepage": "https://github.com/ValeryC/NextJs#readme",
+  "dependencies": {
+    "next": "^10.0.6",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
