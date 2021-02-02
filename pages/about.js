@@ -1,11 +1,12 @@
-import Navbar from '../components/Navbar'
+import Layout from '../components/Layout'
 
 const About = () => (
-  <div>
-    <Navbar />
-    <h1>About</h1>
-    <p>App test to use Nextjs </p>
-  </div>
+  <Layout>
+    <div>
+      <h1>About</h1>
+      <p>App test to use Nextjs </p>
+    </div>
+  </Layout>
 )
 
-export default About
+export default About  
