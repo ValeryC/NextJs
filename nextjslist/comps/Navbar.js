@@ -9,9 +9,9 @@ const Navbar = () => {
       </div>
       <Link href="/"><a>Home</a></Link>
       <Link href="/about"><a>About</a></Link>
-      <Link href="/list"><a>My list</a></Link>
+      <Link href="/lists"><a>My list</a></Link>
     </nav>
   );
 }
 
-export default Navbar;
+export default Navbar; 
