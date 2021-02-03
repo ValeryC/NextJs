@@ -18,3 +18,8 @@
   color: white;
   text-align: center;
 }
+
+.btn:hover {
+  color: white;
+  background: grey;
+}
