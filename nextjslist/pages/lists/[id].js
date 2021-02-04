@@ -31,6 +31,7 @@ const Details = ({ list }) => {
       <p>{list.email}</p>
       <p>{list.website}</p>
       <p>{list.address.city}</p>
+      <p>{list.phone}</p>
     </div>
   );
 }
